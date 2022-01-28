@@ -29,7 +29,7 @@ const sendEmail = async (email) => {
         service: 'gmail',
         auth: {
           user: 'reptile2503@gmail.com',
-          pass: 'deva@2503'
+          pass: 'swivmqexyikdtnru'
         }
     });
 

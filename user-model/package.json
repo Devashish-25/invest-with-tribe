@@ -13,5 +13,8 @@
     "express": "^4.17.2",
     "mongoose": "^6.1.4",
     "nodemailer": "^6.7.2"
+  },
+  "engines": {
+    "node": "14.15.3"
   }
 }
